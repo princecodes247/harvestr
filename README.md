@@ -1,6 +1,6 @@
 # Harvestr - Video Downloader API
 
-A stateless, modular video downloader API built with Express, TypeScript, and `yt-dlp`. Designed for use with iOS Shortcuts.
+A stateless, modular video downloader API built with Express, TypeScript, and `yt-dlp`. Designed for use with iOS and Android Shortcuts.
 
 ## Prerequisites
 
@@ -60,3 +60,7 @@ To use this with iOS Shortcuts:
 - `src/modules/downloader/`: Core logic and service for `yt-dlp`.
 - `src/routes/`: Express route definitions.
 - `src/types/`: TypeScript type definitions.
+
+## Shortcuts
+
+- iOS: [Download Video](https://www.icloud.com/shortcuts/244950fe940940c892464cc11bf51823)
